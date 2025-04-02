@@ -1,0 +1,25 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fefefe;
+  padding-top: 70px;
+  scroll-behavior: smooth;
+}
+.cf-section-title {
+  font-size: 1.8rem;
+  font-weight: bold;
+  border-bottom: 2px solid #b5caeb;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+footer {
+  border-top: 1px solid #b5caeb;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
