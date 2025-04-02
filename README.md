@@ -5,7 +5,7 @@ This is the personal portfolio website of Evangelos Theodorakis, a junior develo
 ## 🔗 Live Demo
 
 You can view the live version of the site here:  
-👉 https://your-username.github.io/evangelos-cv/
+👉 https://gettingfunky.github.io/evangelos-cv-website/
 
 ## 📁 Project Structure
 
